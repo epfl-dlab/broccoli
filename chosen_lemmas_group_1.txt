@@ -1,0 +1,5 @@
+['information', 'single', 'community', 'estimate', 'capital',
+       'world', 'federal', 'coast', 'practice', 'river', 'city', 'water',
+       'province', 'material', 'consist', 'bear', 'office', 'era',
+       'majority', 'colony', 'approximately', 'valley', 'mark', 'base',
+       'home', 'saint']

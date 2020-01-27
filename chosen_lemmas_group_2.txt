@@ -1,0 +1,5 @@
+['origin', 'study', 'widely', 'title', 'november', 'extend',
+       'education', 'general', 'people', 'figure', 'long', 'accord',
+       'island', 'party', 'describe', 'come', 'derive', 'program',
+       'states', 'private', 'report', 'human', 'writer', 'command',
+       'institution', 'action']
