@@ -64,6 +64,7 @@ Among others, the questions that have been asked where:
 The data can be found in `before_survey.csv`, `after_survey.csv` and `after_followup.csv`.
 It should be compatible with common spreadsheet software.
 One column contains the participants email. It has been replaced with a uniquely identifying integer. This is the same ID as in the JSON files described above.
+Numbers in the spreadsheets encode feedback from 1 to 5, very negative to very positive.
 # Prototype
 As part of our research on Broccoli, we have created a prototype of our learning tool.\
 It is intended as a reference and platform for further research.\
