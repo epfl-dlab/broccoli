@@ -1,6 +1,12 @@
 # Data
 This repository contains data collected in our user study on the efficiency of the Broccoli paradigm.\
 An analysis can be found in this [paper](https://dlab.epfl.ch/people/west/pub/Aydin-Klein-Miribel-West_WWW-20.pdf).
+```
+Roland Aydin, Lars Klein, Arnaud Miribel, and Robert West. 2020. 
+Broccoli: Sprinkling Lightweight Vocabulary Learning into Everyday Information Diets. 
+In Proceedings of The Web Conference 2020 (WWW '20), April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA 11 Pages.
+https://doi.org/10.1145/3366423.3380209
+```
 
 A detailed schematic of the data is recorded in the following.
 
