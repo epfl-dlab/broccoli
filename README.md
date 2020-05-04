@@ -1,8 +1,8 @@
 # Data
 This repository contains data collected in our user study on the efficiency of the Broccoli paradigm.\
-For a detailed evaluation please refer to: <enter paper URL here>
+An analysis can be found in this [paper](https://dlab.epfl.ch/people/west/pub/Aydin-Klein-Miribel-West_WWW-20.pdf).
 
-A detailed schematic of the data is recorded in the following
+A detailed schematic of the data is recorded in the following.
 
 ## Data from first session
 `german_learning.json` and `swiss_learning.json` contain data collected by our plugin during the first session.
